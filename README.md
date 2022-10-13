@@ -1,36 +1,36 @@
 
-# Project Title
-Read me Generator
+#Title
+Read Me Generator
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 # Description
-Creates readme through node 
+ Creates a read me file through node
 
 # Table of Contents 
-* [Installation](#-Installation)
-* [Usage](#-Usage)
-* [License](#-Installation)
+* [Installation](#-install)
+* [Usage](#-use)
+* [License](#-License)
 * [Contributing](#-Contributing)
 * [Tests](#-Tests)
-* [Questions](#-Contact-Information)
+* [Questions](#-Contact-info)
     
-# Installation
-Install node  then run node index.js
+# install
+Install node  the run  node index.js
 
-# Usage
-This can be used to geenrator a professional Read me for a project
+# use
+This can be used to genrate a preofessional read me for a project
 
 # License 
-Mozilla
-* As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
+MIT
+ 
 
 # Contributing 
- please see email address and ask how you can contribute
+Please see email contact information to ask how you may contribute
 
 # Tests
 undefined
 
-# Contact Information 
+# Contact-info 
 * GitHub Username: cburnside1385
-* Contact Email: Burnside@email.com
+* Contact Email: burnside@email.com
 
